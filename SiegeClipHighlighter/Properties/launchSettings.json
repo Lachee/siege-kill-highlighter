@@ -1,0 +1,17 @@
+{
+  "profiles": {
+    "SiegeClipHighlighter": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false,
+      "remoteDebugMachine": ""
+    },
+    "newProfile1": {
+      "commandName": "Executable",
+      "remoteDebugEnabled": true
+    },
+    "Remote Enviro": {
+      "commandName": "Executable",
+      "remoteDebugEnabled": false
+    }
+  }
+}
